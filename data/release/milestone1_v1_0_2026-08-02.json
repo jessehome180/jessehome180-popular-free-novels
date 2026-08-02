@@ -1,0 +1,79 @@
+{
+  "project": "popular-free-novels",
+  "release": "M1-v1.0",
+  "released_on": "2026-08-02",
+  "status": "RELEASED_WITH_EDITORIAL_SCORE_DISCLOSURE",
+  "scope": {
+    "categories": ["軍事", "穿越", "歷史", "修仙"],
+    "slots_per_category": 10,
+    "minimum_words_wan": 100,
+    "ongoing_max_days_since_update": 14,
+    "excluded": ["抗戰", "抗日", "民國戰時諜戰", "二戰東亞戰場"]
+  },
+  "platform": {
+    "name": "番茄小說",
+    "access": "官方免費閱讀；App 支援下載／離線快取",
+    "experience": "WATCHLIST",
+    "reason": "免費模式含廣告；不同版本與地區的廣告干擾可能不同，未列為無廣告來源。"
+  },
+  "score_disclosure": "推薦分數為第一版編輯評分，綜合題材辨識度、篇幅完成度、平台熱度線索與可讀性；未宣稱等同全網讀者統計。",
+  "categories": {
+    "軍事": [
+      {"title":"一號保鏢","author":"冷海隱士","words_wan":453.6,"status":"完結","style":"現代軍事／保鏢／特工","summary":"以現代保鏢、特工任務與軍事行動為核心的長篇作品。","recommendation_score":82,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"大唐特種兵","author":"胖不是問題","words_wan":100.1,"status":"完結","style":"架空軍事／大唐／特種兵","summary":"現代特種兵元素融入大唐背景的架空軍事穿越作品。","recommendation_score":75,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"最強特種兵系統","author":"贏無欲","words_wan":203.2,"status":"完結","style":"現代軍事／系統／特種兵","summary":"以系統成長、軍事訓練及特種作戰為主線。","recommendation_score":80,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"特種兵：我創造了恐怖幽靈","author":"我是小熊貓","words_wan":350.9,"status":"完結","style":"現代軍事／邊防／特種兵","summary":"從邊防與特種部隊出發，逐步建立精銳作戰力量。","recommendation_score":84,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"特種兵：融合國術，成為最強功夫兵王","author":"燕草","words_wan":323.0,"status":"完結","style":"現代軍事／國術／特種兵","summary":"融合國術、軍事訓練與特種作戰的爽文。","recommendation_score":79,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"特種兵：從雄鷹師開始","author":"一圓錢錢","words_wan":118.2,"status":"完結","style":"空降兵／特種兵／無系統","summary":"以空降兵部隊與軍事演習為核心，偏寫實訓練路線。","recommendation_score":78,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"特種兵：從火鳳凰開始","author":"世界上的星空","words_wan":121.5,"status":"完結","style":"軍旅／特種部隊訓練","summary":"圍繞現代軍旅與特種部隊集訓展開。","recommendation_score":74,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"末世特種兵","author":"幻境城主","words_wan":364.7,"status":"完結","style":"科幻軍事／末世生存","summary":"特種兵在末世環境中的生存、作戰與勢力建設。","recommendation_score":81,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"特種兵：開局震驚龍小雲","author":"熊貓北圖","words_wan":210.4,"status":"完結","style":"現代軍旅／特種兵","summary":"現代軍旅背景下的特種兵成長與任務故事。","recommendation_score":76,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"中國特種兵之異界縱橫","author":"紅月月鳥","words_wan":194.0,"status":"完結","style":"異界／架空軍事／特種兵","summary":"特種兵進入異界後，以軍事能力與修煉體系求生發展。","recommendation_score":73,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"}
+    ],
+    "穿越": [
+      {"title":"大周敗家子","author":"名塵","words_wan":201.5,"status":"完結","style":"架空歷史／經商／穿越","summary":"沈逸穿越架空大周成為敗家子，利用現代知識從經商起步，逐步介入朝堂與天下格局。","recommendation_score":84,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","source":"https://fanqienovel.com/page/6992862101765098526","verification_confidence":"高"},
+      {"title":"史上第一敗家子","author":"回想序曲","words_wan":146.6,"status":"完結","style":"架空歷史／逆襲／穿越","summary":"以敗家子身分開局，運用現代思維完成家業與人生逆襲。","recommendation_score":78,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"穿越明朝當皇帝","author":"少司寇","words_wan":150.1,"status":"完結","style":"明朝／帝王／穿越","summary":"穿越明朝成為皇帝，以改革、權謀與治國推動王朝轉型。","recommendation_score":79,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"歷史：穿越兩界的狠人","author":"宇留空","words_wan":117.5,"status":"完結","style":"兩界穿越／歷史","summary":"主角往返不同世界，利用資訊與資源差異建立優勢。","recommendation_score":75,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"大唐特種兵","author":"胖不是問題","words_wan":100.1,"status":"完結","style":"大唐／軍事／穿越","summary":"現代特種兵能力進入大唐架空環境的軍事穿越作品。","recommendation_score":75,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"大唐：開局抓了長孫皇后","author":"跳跳的鼠","words_wan":207.7,"status":"完結","style":"大唐／系統／穿越","summary":"以大唐人物與事件為背景的系統型穿越爽文。","recommendation_score":80,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"帶著軍需倉庫穿越古代種田","author":"縱浪","words_wan":105.9,"status":"完結","style":"種田／科技／穿越","summary":"攜帶軍需倉庫進入古代，以物資、科技和經營推動發展。","recommendation_score":82,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"大明：穿越兩界，我被奉為真仙","author":"冰魂修羅","words_wan":118.3,"status":"完結","style":"兩界／大明／穿越","summary":"往返現代與大明，因資源與知識優勢被古人視為仙人。","recommendation_score":77,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"大明：滿朝奸臣，你讓我登基稱帝？","author":"稀哩嘩啦","words_wan":105.4,"status":"完結","style":"大明／朝堂／穿越","summary":"在奸臣環伺的朝局中，以權謀與改革爭奪帝位。","recommendation_score":76,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"修仙模擬千萬次，我舉世無敵","author":"想躺平當鹹魚a","words_wan":100.8,"status":"完結","style":"修仙／模擬／穿越","summary":"藉由反覆模擬累積修仙經驗與資源，走向無敵。","recommendation_score":81,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"}
+    ],
+    "歷史": [
+      {"title":"大周敗家子","author":"名塵","words_wan":201.5,"status":"完結","style":"架空歷史／經商／朝堂","summary":"從商業逆襲逐步擴展到朝堂與天下格局的架空歷史長篇。","recommendation_score":84,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","source":"https://fanqienovel.com/page/6992862101765098526","verification_confidence":"高"},
+      {"title":"史上第一敗家子","author":"回想序曲","words_wan":146.6,"status":"完結","style":"架空歷史／逆襲","summary":"敗家子身分下的家業重建與歷史世界逆襲。","recommendation_score":78,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"穿越明朝當皇帝","author":"少司寇","words_wan":150.1,"status":"完結","style":"明朝／帝王／治國","summary":"以明朝皇帝視角進行改革、權謀與王朝治理。","recommendation_score":79,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"歷史：穿越兩界的狠人","author":"宇留空","words_wan":117.5,"status":"完結","style":"兩界／歷史","summary":"利用跨世界資源差異介入歷史環境並建立勢力。","recommendation_score":75,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"大唐特種兵","author":"胖不是問題","words_wan":100.1,"status":"完結","style":"大唐／軍事","summary":"以特種兵能力介入大唐軍事與歷史局勢。","recommendation_score":75,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"大唐：開局抓了長孫皇后","author":"跳跳的鼠","words_wan":207.7,"status":"完結","style":"大唐／穿越","summary":"以大唐人物與宮廷環境為舞台的穿越爽文。","recommendation_score":80,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"帶著軍需倉庫穿越古代種田","author":"縱浪","words_wan":105.9,"status":"完結","style":"古代種田／科技","summary":"利用軍需物資與現代技術在古代發展生產與勢力。","recommendation_score":82,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"拯救大明王朝","author":"執筆為家","words_wan":109.4,"status":"完結","style":"大明／救亡／朝堂","summary":"圍繞大明危局、朝堂改革與王朝救亡展開。","recommendation_score":77,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"大明：穿越兩界，我被奉為真仙","author":"冰魂修羅","words_wan":118.3,"status":"完結","style":"大明／兩界","summary":"往返兩界並運用現代資源影響大明社會與政治。","recommendation_score":77,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"大明：滿朝奸臣，你讓我登基稱帝？","author":"稀哩嘩啦","words_wan":105.4,"status":"完結","style":"大明／朝堂權謀","summary":"在複雜朝局中以權謀、整頓與登基為主線。","recommendation_score":76,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"}
+    ],
+    "修仙": [
+      {"title":"奶爸的修真人生","author":"劍分天下","words_wan":663.8,"status":"完結","style":"都市修真／奶爸","summary":"都市生活、家庭線與修真成長並行的超長篇。","recommendation_score":76,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"修仙大紈絝","author":"番茄不放糖","words_wan":294.4,"status":"完結","style":"修仙／紈絝逆襲","summary":"從紈絝身分起步，在修仙世界中完成逆襲。","recommendation_score":78,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"笨鳥修仙","author":"鏡中有花水中有月","words_wan":492.7,"status":"完結","style":"凡人流／長篇修仙","summary":"資質平凡的角色在漫長修仙道路上逐步成長。","recommendation_score":82,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"高考失利，她撿了一個修仙種田系統","author":"喝奶茶的卡多希","words_wan":105.5,"status":"完結","style":"女頻／種田／系統","summary":"高考失利後獲得修仙種田系統，結合成長與生活經營。","recommendation_score":75,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"凡人尋仙","author":"三省吾心","words_wan":192.9,"status":"完結","style":"凡人流／修仙","summary":"凡人出身的主角逐步踏入修仙世界並尋求長生。","recommendation_score":80,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"修仙模擬千萬次，我舉世無敵","author":"想躺平當鹹魚a","words_wan":100.8,"status":"完結","style":"模擬器／無敵流","summary":"透過大量模擬預演修仙路線，累積能力後走向無敵。","recommendation_score":81,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"女配修仙，但是無限讀檔","author":"月對空","words_wan":124.8,"status":"完結","style":"女頻／無CP／讀檔流","summary":"炮灰女配獲得無限讀檔能力，反覆修正失敗路線、搶奪機緣並專注修仙。","recommendation_score":90,"reading_grade":"必讀","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","source":"https://fanqienovel.com/page/7364327533921176638","verification_confidence":"高"},
+      {"title":"中國特種兵之異界縱橫","author":"紅月月鳥","words_wan":194.0,"status":"完結","style":"異界／修煉／軍事","summary":"特種兵進入異界，在軍事生存與修煉成長間推進。","recommendation_score":73,"reading_grade":"普通","worth_finishing":false,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","verification_confidence":"中"},
+      {"title":"修仙","author":"愛吃祝壽蛋糕的法魔","words_wan":796.5,"status":"連載","last_update":"2026-07-27","style":"凡人流／無系統／無後宮","summary":"少年因神秘珠踏入修真世界，以傳統境界體系一步步修煉成仙。","recommendation_score":85,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","source":"https://fanqienovel.com/page/6918665604895345677","verification_confidence":"高"},
+      {"title":"大秦：古代修仙","author":"橙子味的甜","words_wan":132.2,"status":"完結","style":"大秦／科技修仙／系統","summary":"穿越成大秦皇子，在無修仙者的世界結合科技與修仙體系發展勢力。","recommendation_score":83,"reading_grade":"很推薦","worth_finishing":true,"ad_experience":"中等／需容忍平台廣告","offline":"番茄小說 App 下載或離線快取","source":"https://fanqienovel.com/page/7412924323612068888","verification_confidence":"高"}
+    ]
+  },
+  "gates": {
+    "category_counts": "PASS",
+    "word_count": "PASS",
+    "freshness": "PASS",
+    "antiwar_exclusion": "PASS",
+    "author_identity": "PASS",
+    "offline_method": "PASS_PLATFORM_LEVEL",
+    "quality_ranking": "PASS_EDITORIAL_V1"
+  }
+}
