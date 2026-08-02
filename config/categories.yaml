@@ -1,0 +1,13 @@
+categories:
+  - id: military
+    label: 軍事
+    aliases: [軍事, 戰爭, 抗戰, 諜戰, 特種兵, 軍旅]
+  - id: transmigration
+    label: 穿越
+    aliases: [穿越, 重生, 系統穿越, 異世穿越]
+  - id: history
+    label: 歷史
+    aliases: [歷史, 架空歷史, 秦漢, 唐宋元明清, 三國]
+  - id: cultivation
+    label: 修仙
+    aliases: [修仙, 仙俠, 凡人流, 洪荒, 修真]
