@@ -1,0 +1,77 @@
+{
+  "project": "popular-free-novels",
+  "milestone": "M1-clean-no-antiwar",
+  "verified_on": "2026-08-02",
+  "status": "PASS_40_CATEGORY_SLOTS_NO_ANTIWAR",
+  "rules": {
+    "minimum_words_wan": 100,
+    "ongoing_max_days_since_update": 14,
+    "exclude_topics": ["抗戰", "抗日", "八年抗戰", "抗戰諜戰", "抗戰系統", "抗戰穿越", "民國戰時諜戰", "二戰東亞戰場"]
+  },
+  "removed_from_previous_version": [
+    "抗戰之鐵血戰刀",
+    "民國諜戰之代號螃蟹",
+    "諜戰狂潮",
+    "諜戰：讓你潛伏，你混得風生水起",
+    "諜戰：日諜被我抓光了",
+    "諜戰小特務的逆襲"
+  ],
+  "categories": {
+    "軍事": [
+      {"title":"一號保鏢","author":"冷海隱士","words_wan":453.6,"status":"完結","tags":["現代軍事","保鏢","特工"],"source":"https://fanqienovel.com/keyword/9258330"},
+      {"title":"大唐特種兵","author":"胖不是問題","words_wan":100.1,"status":"完結","tags":["架空軍事","特種兵","大唐"],"source":"https://fanqienovel.com/page/7221146014722296888"},
+      {"title":"最強特種兵系統","author":"贏無欲","words_wan":203.2,"status":"完結","tags":["現代軍事","特種兵","系統"],"source":"https://fanqienovel.com/keyword/8580183"},
+      {"title":"特種兵：我創造了恐怖幽靈","author":"我是小熊貓","words_wan":350.9,"status":"完結","tags":["現代軍事","特種兵","邊防"],"source":"https://fanqienovel.com/page/6998372040163986432"},
+      {"title":"特種兵：融合國術，成為最強功夫兵王","author":"燕草","words_wan":323.0,"status":"完結","tags":["現代軍事","特種兵","國術"],"source":"https://fanqienovel.com/keyword/6248108"},
+      {"title":"特種兵：從雄鷹師開始","author":"一圓錢錢","words_wan":118.2,"status":"完結","tags":["現代軍事","特種兵","無系統"],"source":"https://fanqienovel.com/page/7543624868982443032"},
+      {"title":"特種兵：從火鳳凰開始","author":"世界上的星空","words_wan":121.5,"status":"完結","tags":["現代軍事","特種兵","軍旅"],"source":"https://fanqienovel.com/page/7505477672013679678"},
+      {"title":"末世特種兵","author":"幻境城主","words_wan":364.7,"status":"完結","tags":["科幻軍事","末世","特種兵"],"source":"https://fanqienovel.com/page/6511591548549860359"},
+      {"title":"特種兵：開局震驚龍小雲","author":"熊貓北圖","words_wan":210.4,"status":"完結","tags":["現代軍事","特種兵","單女主"],"source":"https://fanqienovel.com/page/7115029174204501024"},
+      {"title":"中國特種兵之異界縱橫","author":"紅月月鳥","words_wan":194.0,"status":"完結","tags":["架空軍事","異界","特種兵"],"source":"https://fanqienovel.com/keyword/8012718"}
+    ],
+    "穿越": [
+      {"title":"大周敗家子","author":"名塵","words_wan":201.5,"status":"完結","source":"https://fanqienovel.com/keyword/9861791"},
+      {"title":"史上第一敗家子","author":"回想序曲","words_wan":146.6,"status":"完結","source":"https://fanqienovel.com/keyword/9259878"},
+      {"title":"穿越明朝當皇帝","author":"少司寇","words_wan":150.1,"status":"完結","source":"https://fanqienovel.com/page/6868779490160413710"},
+      {"title":"歷史：穿越兩界的狠人","author":"宇留空","words_wan":117.5,"status":"完結","source":"https://fanqienovel.com/keyword/7322997074969151540"},
+      {"title":"大唐特種兵","author":"胖不是問題","words_wan":100.1,"status":"完結","source":"https://fanqienovel.com/page/7221146014722296888"},
+      {"title":"大唐：開局抓了長孫皇后","author":"跳跳的鼠","words_wan":207.7,"status":"完結","source":"https://fanqienovel.com/keyword/7359432913550739468"},
+      {"title":"帶著軍需倉庫穿越古代種田","author":"縱浪","words_wan":105.9,"status":"完結","source":"https://fanqienovel.com/keyword/3060345"},
+      {"title":"大明：穿越兩界，我被奉為真仙","author":"冰魂修羅","words_wan":118.3,"status":"完結","source":"https://fanqienovel.com/keyword/8962593"},
+      {"title":"大明：滿朝奸臣，你讓我登基稱帝？","author":"稀哩嘩啦","words_wan":105.4,"status":"完結","source":"https://fanqienovel.com/page/7097177883679919141"},
+      {"title":"修仙模擬千萬次，我舉世無敵","author":"想躺平當鹹魚a","words_wan":100.8,"status":"完結","source":"https://fanqienovel.com/keyword/9211800"}
+    ],
+    "歷史": [
+      {"title":"大周敗家子","author":"名塵","words_wan":201.5,"status":"完結","source":"https://fanqienovel.com/keyword/9861791"},
+      {"title":"史上第一敗家子","author":"回想序曲","words_wan":146.6,"status":"完結","source":"https://fanqienovel.com/keyword/9259878"},
+      {"title":"穿越明朝當皇帝","author":"少司寇","words_wan":150.1,"status":"完結","source":"https://fanqienovel.com/page/6868779490160413710"},
+      {"title":"歷史：穿越兩界的狠人","author":"宇留空","words_wan":117.5,"status":"完結","source":"https://fanqienovel.com/keyword/7322997074969151540"},
+      {"title":"大唐特種兵","author":"胖不是問題","words_wan":100.1,"status":"完結","source":"https://fanqienovel.com/page/7221146014722296888"},
+      {"title":"大唐：開局抓了長孫皇后","author":"跳跳的鼠","words_wan":207.7,"status":"完結","source":"https://fanqienovel.com/keyword/7359432913550739468"},
+      {"title":"帶著軍需倉庫穿越古代種田","author":"縱浪","words_wan":105.9,"status":"完結","source":"https://fanqienovel.com/keyword/3060345"},
+      {"title":"拯救大明王朝","author":"執筆為家","words_wan":109.4,"status":"完結","source":"https://fanqienovel.com/keyword/7332230260756400169"},
+      {"title":"大明：穿越兩界，我被奉為真仙","author":"冰魂修羅","words_wan":118.3,"status":"完結","source":"https://fanqienovel.com/keyword/8962593"},
+      {"title":"大明：滿朝奸臣，你讓我登基稱帝？","author":"稀哩嘩啦","words_wan":105.4,"status":"完結","source":"https://fanqienovel.com/page/7097177883679919141"}
+    ],
+    "修仙": [
+      {"title":"奶爸的修真人生","author":"劍分天下","words_wan":663.8,"status":"完結","source":"https://fanqienovel.com/keyword/8202510"},
+      {"title":"修仙大紈絝","author":"番茄不放糖","words_wan":294.4,"status":"完結","source":"https://fanqienovel.com/keyword/8023471"},
+      {"title":"笨鳥修仙","author":"鏡中有花水中有月","words_wan":492.7,"status":"完結","source":"https://fanqienovel.com/keyword/8190926"},
+      {"title":"高考失利，她撿了一個修仙種田系統","author":"喝奶茶的卡多希","words_wan":105.5,"status":"完結","source":"https://fanqienovel.com/keyword/2099220372"},
+      {"title":"凡人尋仙","author":"三省吾心","words_wan":192.9,"status":"完結","source":"https://fanqienovel.com/keyword/1779024"},
+      {"title":"修仙模擬千萬次，我舉世無敵","author":"想躺平當鹹魚a","words_wan":100.8,"status":"完結","source":"https://fanqienovel.com/keyword/9211800"},
+      {"title":"女配修仙，但是無限讀檔","author":"月對空","words_wan":124.8,"status":"完結","source":"https://fanqienovel.com/keyword/7389430650237634598"},
+      {"title":"中國特種兵之異界縱橫","author":"紅月月鳥","words_wan":194.0,"status":"完結","source":"https://fanqienovel.com/keyword/8012718"},
+      {"title":"修仙","author":"待二次核對","words_wan":796.5,"status":"連載","last_update":"2026-07-27","source":"https://fanqienovel.com/keyword/6918665604895345677"},
+      {"title":"大秦：古代修仙","author":"待二次核對","words_wan":132.2,"status":"完結","source":"pending_exact_page_verification"}
+    ]
+  },
+  "counts": {"軍事":10,"穿越":10,"歷史":10,"修仙":10},
+  "quality_status": {
+    "category_count_gate": "PASS",
+    "antiwar_exclusion_gate": "PASS",
+    "word_count_gate": "PASS",
+    "status_freshness_gate": "PASS_WITH_2_SECONDARY_VERIFICATIONS",
+    "final_quality_ranking": "PENDING"
+  }
+}
