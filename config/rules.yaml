@@ -1,0 +1,20 @@
+eligibility:
+  min_word_count: 1000000
+  max_stale_days_for_ongoing: 14
+  allowed_languages: [zh-Hans, zh-Hant]
+  require_summary: true
+  require_reading_url: true
+  exclude_if:
+    - excessive_ads
+    - malicious_redirect
+    - forced_download
+    - content_obscured
+    - high_security_risk
+site_experience:
+  score_range: [0, 100]
+  minimum_score: 65
+  hard_block_flags:
+    - excessive_ads
+    - malicious_redirect
+    - forced_download
+    - high_security_risk
