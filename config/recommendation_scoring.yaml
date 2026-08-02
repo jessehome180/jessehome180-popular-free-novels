@@ -1,0 +1,26 @@
+version: 1
+score_range: [0, 100]
+weights:
+  popularity: 30
+  reader_reviews: 25
+  writing_quality: 20
+  worldbuilding: 10
+  update_stability: 10
+  reading_experience: 5
+full_read_labels:
+  - score_min: 90
+    label: 必讀
+  - score_min: 80
+    label: 很推薦
+  - score_min: 65
+    label: 普通
+  - score_min: 50
+    label: 可跳過
+  - score_min: 0
+    label: 不建議
+rules:
+  minimum_words: 1000000
+  ongoing_max_days_since_update: 14
+  exclude_excessive_ads: true
+  exclude_malicious_redirects: true
+  require_source_evidence: true
